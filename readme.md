@@ -33,12 +33,6 @@ Users should be able to:
 #### Mobile
 ![](images/screenshot-mobile.png)
 
-### Links
-
-- Solution URL: [https://www.frontendmentor.io/solutions/intro-component-with-signup-form-built-with-html-sass-and-javascript-MAlZMjvcD](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-built-with-html-sass-and-javascript-MAlZMjvcD)
-- Live Site URL: [https://rngueco.github.io/intro-component-with-signup-form/](https://rngueco.github.io/intro-component-with-signup-form/)
-
-## My process
 
 ### Built with
 
@@ -51,8 +45,3 @@ Users should be able to:
 ### What I learned
 
 Implementing the client-side form validation for this challenge went easier than the previous one's, thanks to fellow Frontend Mentor developers who helped me improve the previous challenge's form validation.
-
-## Author
-
-- Frontend Mentor - [@rngueco](https://www.frontendmentor.io/profile/rngueco)
-- Twitter - [@RiyanaGueco](https://www.twitter.com/RiyanaGueco)
